@@ -6,6 +6,10 @@ Credit card fraud is a type of financial fraud. It involves the unauthorised use
 ## Overview
 Credit card fraud is a critical issue impacting both consumers and businesses worldwide. This research project focuses on exploring various methods and techniques for detecting and preventing fraudulent transactions. The goal is to identify effective strategies to mitigate the risks associated with credit card fraud, ensuring enhanced security and trust in financial transactions.
 
+## Dataset
+Dataset used from Kaggle Website
+[Dataset link](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 |Sr.no|Features name| 
  |-|-|
  |1)|Time|
