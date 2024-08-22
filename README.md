@@ -64,4 +64,4 @@ Dataset contains only numerical input variables which are the result of a PCA tr
     1) Isolation Forest 
     2) Local Outlier Factor 
 8. Testing :
-    Best model selected is solation Forest (Reason - Recall % is higher ) 
+    Best model selected is Isolation Forest (Reason - Recall % is higher ) 
