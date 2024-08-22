@@ -4,7 +4,7 @@
 Credit card fraud is a type of financial fraud. It involves the unauthorised use of someone's credit card information to make fraudulent transactions, leading to financial losses for the cardholder. It is a form of identity theft because it often requires stolen personal information to perpetrate the fraud.
 
 ## Overview
-Credit card fraud is a critical issue impacting both consumers and businesses worldwide. This research project focuses on exploring various methods and techniques for detecting and preventing fraudulent transactions. The goal is to identify effective strategies to mitigate the risks associated with credit card fraud, ensuring enhanced security and trust in financial transactions.
+Credit card fraud is a critical issue impacting both consumers and businesses worldwide. This research project focuses on exploring various methods and techniques for detecting and preventing fraudulent transactions.
 
 ## Dataset
 Dataset used from Kaggle Website
@@ -60,8 +60,8 @@ Dataset contains only numerical input variables which are the result of a PCA tr
  6. Feature Selection :
     See the most relevant features for the modeling process
  7. Machine Learning :
-    Develop and evaluate machine learning models
-    1) Linear Regression
-    2) Decision Tree
+    Develop and assess machine learning models using  anomaly detection techniques : 
+    1) Isolation Forest 
+    2) Local Outlier Factor 
 8. Testing :
-    Best model selected is Decision Tree Regressor (Reason - Recall % is higher ) 
+    Best model selected is solation Forest (Reason - Recall % is higher ) 
